@@ -5,5 +5,3 @@
 <p align="center">
 Building real-world intelligent systems — from models to deployment
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
